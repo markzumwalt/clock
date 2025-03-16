@@ -1,11 +1,8 @@
-body {
-  background-color: #fff;
-}
-#currentTime {
-  font-size: 10em;
-  text-align: center;
-  font-family: sans-serif;
-  font-weight: 600;
-  color: #AA1141;
-  margin: 10px auto;
+#clock {
+    font-size: 175px;
+    width: 900px;
+    margin: 200px;
+    text-align: center;
+    border: 2px solid black;
+    border-radius: 20px;
 }
